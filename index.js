@@ -21,7 +21,14 @@ function add(a,b)
    if (a/b === a/b)
    {return(a/b)}
  }
+ 
  function inc(n)
- return(n)}
+ { if (n === n)
+ {return(n)}
+ }
+ 
+ function dec(n)
+ { if (n === n)
+ {return(n)}
  }
  
