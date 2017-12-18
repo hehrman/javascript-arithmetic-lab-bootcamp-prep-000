@@ -24,11 +24,11 @@ function add(a,b)
  
  function inc(n)
  { if (n === n)
- {return(n)}
+ {return(n+6)}
  }
  
  function dec(n)
  { if (n === n)
- {return(n)}
+ {return(n-6)}
  }
  
