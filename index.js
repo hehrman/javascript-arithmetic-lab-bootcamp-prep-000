@@ -21,4 +21,7 @@ function add(a,b)
    if (a/b === a/b)
    {return(a/b)}
  }
+ function inc(n)
+ return(n)}
+ }
  
