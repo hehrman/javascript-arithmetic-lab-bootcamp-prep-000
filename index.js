@@ -6,8 +6,8 @@ function add(a,b)
  
  function subtract(a,b)
  {
-   if (b-a === b-a )
-    {return(b-a)}
+   if (a-b === a-b )
+    {return(a-b)}
  }
  
  function multiply(a,b)
