@@ -10,3 +10,15 @@ function add(a,b)
     {return(b-a)}
  }
  
+ function multiply(a,b)
+ {
+   if (a*b === a*b)
+   {return(a*b)}
+ }
+ 
+ function divide(a,b)
+ {
+   if (a/b === a/b)
+   {return(a/b)}
+ }
+ 
