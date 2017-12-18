@@ -32,3 +32,5 @@ function add(a,b)
  {return(n-1)}
  }
  
+ function makeInt(n)
+ { if ()
